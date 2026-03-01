@@ -1,4 +1,4 @@
-# ⏰ React Time Utility App
+# ⏰ React clock-application
 A React application that includes:
 **Digital Clock**
 **Countdown Timer**
@@ -49,10 +49,10 @@ This project demonstrates the use of **React Hooks** (useState, useEffect, useRe
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/react-time-utility.git
-cd react-time-utility
+git clone https://github.com/walaa2020/clock-application.git
+cd clock-application
 npm install
-npm start
+npm run dev
 ```
 ---
  Open http://localhost:3000

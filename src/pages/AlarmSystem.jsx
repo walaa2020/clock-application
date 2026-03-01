@@ -140,7 +140,7 @@ const AlarmSystem = () => {
         </div>
 
         {isSet && (
-          <div className='text-xl font-semibold text-green-400'>
+          <div className='text-base sm:text-xl font-semibold text-green-400'>
             {message}
           </div>
         )}
